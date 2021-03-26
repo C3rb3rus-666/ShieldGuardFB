@@ -1,7 +1,7 @@
 # ShieldGuardFB
 activa el escudo azul en tu perfil de fb con esta herramienta
 
-![Captura de pantalla 2021-03-25 21:18:53.png](https://raw.githubusercontent.com/C3rb3rus-666/ShieldGuardFB/master/assets/Captura de pantalla 2021-03-25 21:18:53.png)
+![Captura1.png](https://raw.githubusercontent.com/C3rb3rus-666/ShieldGuardFB/master/assets/Captura1.png)
 
 # modo de uso
 
