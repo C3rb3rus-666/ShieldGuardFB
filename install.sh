@@ -75,6 +75,7 @@ echo " "
 echo -e "${green} instalacion hecha con exito "
 echo -e "${green} ejecuta python2 ShieldGuardFB.py"
 echo -e "${green} si te gusta el script dejame una estrella en github:)"
+chmod +x *
 rm -rf install.sh
 
 
