@@ -17,3 +17,5 @@ cd ShieldGuardFB
 bash install.sh
 
 python2 ShieldGuardFB.py
+
+si te gusta el script dejame una estrella en mi repositorio:)
