@@ -1,5 +1,8 @@
 # ShieldGuardFB
-activa el escudo azul en tu perfil de fb con esta herramienta
+
+activa el escudo azul en tu perfil de fb con este script
+
+facebook profile guard
 
 ![Captura1.png](https://raw.githubusercontent.com/C3rb3rus-666/ShieldGuardFB/master/assets/Captura1.png)
 
