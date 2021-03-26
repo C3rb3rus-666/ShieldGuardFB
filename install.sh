@@ -39,6 +39,7 @@ if [ -e /data/data/com.termux/files/usr/bin ]; then
 else 
 	gestor="sudo apt-get"
 fi
+echo -e "${red}[i] ${blue}cargando..."
 ${gestor} install pv > /dev/null 2>&1
 clear
 echo -ne '\033[1;31m Coded by C3rb3rus-666' | pv -qL 15
